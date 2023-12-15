@@ -31,8 +31,8 @@ def gcd():
 ## Output:
 ![Alt text](gcd.PNG)
 
+![Alt text](<Screenshot 2023-12-15 173520.png>)
 
-![Alt text](EX2A.png)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
