@@ -31,7 +31,7 @@ def gcd():
 ## Output:
 ![Alt text](gcd.PNG)
 
-![Alt text](<Screenshot 2023-12-15 173520.png>)
+![Alt text](gcddd.png)
 
 
 ## Result:
